@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/acleret/.dotnet/store/|arch|/|tfm|",
+      "/Users/acleret/.nuget/packages"
+    ]
+  }
+}
